@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Say favorite basketball team
-        run: Golden State Warriors
+        run: echo Golden State Warriors
 
       # Runs a set of commands using the runners shell
       - name: Say favorite football and baseball team
